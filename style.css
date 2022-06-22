@@ -1,0 +1,14 @@
+body{
+    background-image:url('boob.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+}
+body:hover{
+    cursor: pointer;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('tit.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+    
+}
